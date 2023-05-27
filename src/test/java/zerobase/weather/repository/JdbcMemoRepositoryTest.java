@@ -1,4 +1,4 @@
-package zerobase.weather;
+package zerobase.weather.repository;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
